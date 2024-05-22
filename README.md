@@ -1,9 +1,10 @@
 
-## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> About me
+## About me
 
 -  🎖  web前端，对重复性或不规范的工作容忍度低
 -  🌱  保持idea，不在乎得失，做一个纯粹的技术人
--  🏃🏻‍♀️  跑步爱好者，2023目标完成半马 - bingo
+-  🌱  始终相信多做一些利他的事能让我收获一大股能量
+-  🏃🏻‍♀️  跑步爱好者，半马选手
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=M-cheng-web&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900" />
 
